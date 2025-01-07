@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **.NET Developer** who loves solv
 
 ## 💡 About Me
 - 🔭 **Currently Working On:** Enhancing backend systems and APIs with .NET technologies.
-- 🌱 **Learning:** Exploring advanced concepts in **MongoDB**, **Azure**, and **microservices architecture**.
+- 🌱 **Learning**: Exploring advanced concepts in MongoDB, Azure, microservices architecture, and Power BI for real-time data visualizations.
 - 🎯 **Goal:** To become a full-stack developer and contribute to impactful open-source projects.
 - 💬 **Ask Me About:** `.NET`, `C#`, `MongoDB`, `Excel Integration`, and anything about backend development!
 - ⚡ **Fun Fact:** I'm a coffee lover who believes every great idea starts with a strong cup of coffee. ☕
@@ -21,6 +21,11 @@ Welcome to my GitHub profile! I'm a passionate **.NET Developer** who loves solv
 - **Other Interests:** JSON Data Handling, File Generation (Excel/PDF), and API Development
 
 ---
+## 📫 How to Reach Me
+- **Email**: [kesavasubhash143@gmail.com](mailto:kesavasubhash143@gmail.com)
+
+---
 
 ### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kesava-subhash-gullapudi-14b095180/)
+
